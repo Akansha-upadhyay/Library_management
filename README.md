@@ -704,4 +704,4 @@ The most important part of the database is the **ISSUE table**, which manages th
 
 Overall, the project shows how DBMS concepts can be applied to build a practical real-world application.
 
-
+# Library_management
